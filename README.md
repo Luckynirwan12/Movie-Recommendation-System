@@ -4,6 +4,13 @@ This project is a **Movie Recommendation System** built using Python, Streamlit,
 
 ---
 
+## 📊 Workflow Diagram
+
+Here’s a visual overview of the system pipeline:
+<img width="1727" height="979" alt="image" src="https://github.com/user-attachments/assets/563379ff-5b81-4f04-b101-c7999e03f889" />
+
+---
+
 ## 🚀 Tech Stack
 
 | Technology | Purpose |
